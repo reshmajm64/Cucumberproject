@@ -1,0 +1,5 @@
+log in url : https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+username : admin@yourstore.com
+password : admin
+before log in page titile : Your store. Login
+afterlog in page titile : Dashboard / nopCommerce administration
